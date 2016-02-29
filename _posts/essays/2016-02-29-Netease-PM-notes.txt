@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "1973年的弹子球 (1980)"
+title: "网易产品经理微专业笔记"
 categories: essays
 ---
 
