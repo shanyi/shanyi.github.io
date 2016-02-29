@@ -1,5 +1,5 @@
 ---
-title: “Learn to draw”
+title: "Learn to draw"
 layout: archive
 ---
 
