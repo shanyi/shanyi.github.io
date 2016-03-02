@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "learn to draw in 30 days #lesson 5"
+title: "learn to draw in 30 days #lesson 4-5"
 categories: learn_to_draw
 ---
 
