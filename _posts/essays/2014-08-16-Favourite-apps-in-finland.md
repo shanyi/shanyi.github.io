@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "帮助提高在芬生活学习质量的 App 们"
+title: "帮助提高在芬生活学习质量的App们"
 categories: essays
 ---
 
